@@ -22,7 +22,7 @@ public class CalculatorWindow extends JFrame implements ActionListener, KeyListe
   private String retrieveText;
   private int retrieveLength;
   public final int FIELD_LENGTH = 32;
-  
+  //test comment
   
   //Window Constructor
   public CalculatorWindow()
